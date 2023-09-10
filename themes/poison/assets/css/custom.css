@@ -1,0 +1,12 @@
+/* Empty css file that users can override in their own /static/css/custom.css file */
+
+/* Sidebar description */
+.sidebar-about p {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/* Sidebar Menu */
+.sidebar-nav {
+    font-size: 1.1rem;
+}
