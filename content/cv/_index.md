@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-06-11T10:52:49+07:00
+date: 2023-10-04T04:32:13+07:00
 layout: single
 draft: false
 ---
