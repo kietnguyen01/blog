@@ -10,7 +10,7 @@ tags: ["Report"]
 
 ## Summary
 
-This report summarizes the process and findings of a data analytics project that aims to compare the remittance fees of different cryptocurrencies and stablecoins with traditional methods. The project was documented in 15 blog posts by Kiet Nguyen, a data analyst and blogger. The main steps of the project were:
+This report summarizes the process and findings of a data analytics project that aims to compare the remittance fees of different cryptocurrencies and stablecoins with traditional methods. The project was documented in 15 blog posts. The main steps of the project were:
 
 - Planning the project scope, objectives, and questions
 - Selecting the cryptocurrencies and stablecoins to analyze
